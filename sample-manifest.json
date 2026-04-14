@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c69732f9-8057-4865-b5ae-a6223a8a4213",
+  "id_short": 639536,
+  "published_at": "2026-04-14T07:47:38Z",
+  "repo_name": "new-restaurant-domains-365-days-in-alabama-us-sample-639536",
+  "sample_asset_name": "beamstation_639536_restaurants-us-al_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/639536/beamstation_639536_restaurants-us-al_SAMPLE_DIST.csv",
+  "sample_records": 46,
+  "sample_sha256": "111c8bf24b389e5072a061d0337902a23709d15178a2b80319e73598ee75732d",
+  "sample_size_bytes": 168086,
+  "total_records": 465
+}
